@@ -28,6 +28,7 @@ GEM
       activemodel (= 3.0.9)
       activesupport (= 3.0.9)
     activesupport (3.0.9)
+    annotate (2.4.0)
     arel (2.0.10)
     autotest (4.4.4)
     builder (2.1.2)
@@ -94,6 +95,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  annotate (= 2.4.0)
   autotest (= 4.4.4)
   rails (= 3.0.9)
   redgreen (= 1.2.2)
