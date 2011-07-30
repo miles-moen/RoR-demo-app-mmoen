@@ -15,6 +15,7 @@ group :test do
   gem 'redgreen', '1.2.2'
   gem 'test-unit', '2.1.1'
   gem 'spork', '0.9.0rc8'
+  gem 'factory_girl_rails', '1.0'
 end
 
 # Use unicorn as the web server
